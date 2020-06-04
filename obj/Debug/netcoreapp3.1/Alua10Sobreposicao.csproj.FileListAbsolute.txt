@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\bin\Debug\netcoreapp3.1\Alua10Sobreposicao.exe
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\bin\Debug\netcoreapp3.1\Alua10Sobreposicao.deps.json
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\bin\Debug\netcoreapp3.1\Alua10Sobreposicao.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\bin\Debug\netcoreapp3.1\Alua10Sobreposicao.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\bin\Debug\netcoreapp3.1\Alua10Sobreposicao.dll
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\bin\Debug\netcoreapp3.1\Alua10Sobreposicao.pdb
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\obj\Debug\netcoreapp3.1\Alua10Sobreposicao.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\obj\Debug\netcoreapp3.1\Alua10Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\obj\Debug\netcoreapp3.1\Alua10Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\obj\Debug\netcoreapp3.1\Alua10Sobreposicao.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\obj\Debug\netcoreapp3.1\Alua10Sobreposicao.dll
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\obj\Debug\netcoreapp3.1\Alua10Sobreposicao.pdb
+C:\Users\saman\OneDrive\Documentos\Alua10Sobreposicao\obj\Debug\netcoreapp3.1\Alua10Sobreposicao.genruntimeconfig.cache
